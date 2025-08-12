@@ -36,16 +36,12 @@ To evaluate and compare the strength of multiple passwords using **The Password 
 ## 📸 Screenshots
 
 ### 1️⃣ Weak Password – `bharatnama`
-![bharatnama](screenshots/bharatnama.png)
 
 ### 2️⃣ Strong Password – `Bharat123`
-![bharat123](screenshots/bharat123.png)
 
 ### 3️⃣ Very Strong Password – `Bharat@2005`
-![bharat@2005](screenshots/bharat@2005.png)
 
 ### 4️⃣ Very Strong & Long Password – `MyDogRuns@5AM12025`
-![MyDogRuns@5AM12025](screenshots/mydogruns.png)
 
 ---
 
